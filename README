@@ -4,3 +4,17 @@ Use 'tt HELP' to display translations performed.
 HELP 1|<N>
 EXAMPLES
 VERB|VERBATIM 	Skip translation of next word.
+
+ACUTE                '´'
+AMPERSAND            '&'
+AND                  '&&'
+APPEND               '>>'
+APOSTROPHE           '''
+ASTERISK             '*'
+ATSIGN               '@'
+BACKSLASH            '\'
+CIRCUMFLEX           '^'
+COLON                ':'
+
+Example:
+'ls -l /etc' => 'tt ls SPC DASH l SPC SLASH etc'

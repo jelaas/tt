@@ -1,3 +1,12 @@
+/*
+ * File: tt.c
+ * Implements: tt executes its arguments under 'bash -c' after performing translations of words into characters or character combinations.
+ *
+ * Copyright: Jens Låås, Uppsala University, 2017
+ * Copyright license: According to GPL, see file COPYING in this directory.
+ *
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

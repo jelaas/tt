@@ -1,0 +1,6 @@
+tt executes its arguments under 'bash -c' after performing translations of words into characters or character combinations.
+Use 'tt HELP' to display translations performed.
+
+HELP 1|<N>
+EXAMPLES
+VERB|VERBATIM 	Skip translation of next word.
